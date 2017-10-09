@@ -1,6 +1,6 @@
 Solving Sol
 ===========
-
+This is ritwik's file. Actually ritwik
 ![Sol LeWitt Reference Image](http://solvingsol.com/screenshots/thumbs/391-amiccolis-index.html.png)
 
 An open project to implement Sol LeWitt's instructions in JavaScript.
@@ -15,7 +15,7 @@ To execute an instruction, please fork this repository and create a folder with 
 
 The file should be executable in a modern web browser. Where possible, please load library scripts externally ([cdn.js](http://cdnjs.com/) is a good place to look.)
 
-We'll also consider pull requests containing links from [JSFiddle.net](http://jsfiddle.net) and [CodePen](http://codepen.io/).
+We'll also consider pull requests containing lgit stauinks from [JSFiddle.net](http://jsfiddle.net) and [CodePen](http://codepen.io/).
 
 ```
 "In an interview, LeWitt was once asked, "How would you feel
